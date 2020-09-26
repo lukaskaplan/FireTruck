@@ -16,7 +16,7 @@ Cardboard Fire truck powered by Arduino UNO
 ## Firetruck demonstration
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PoF56u1W4I4" target="_blank"><img src="http://img.youtube.com/vi/PoF56u1W4I4/0.jpg" 
-alt="Cardboard firetruck demontration" width="640" height="480" border="10"></a>
+alt="Cardboard firetruck demontration" width="640" height="480" border="10" /></a>
 
 ## Wiring diagram
 
