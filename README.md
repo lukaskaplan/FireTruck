@@ -20,7 +20,7 @@ alt="Cardboard firetruck demontration" width="640" height="480" border="10" /></
 
 ## Wiring diagram
 
-![Firetruck - Wiring diagram](https://github.com/lukaskaplan/FireTruck/blob/master/FireTruck-schematics.png "Firetruck - wiring diagram")
+![Firetruck - Wiring diagram](schematics/FireTruck-schematics.png "Firetruck - wiring diagram")
 
 ## TODO
 - add project description, explain technical details
