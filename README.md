@@ -77,7 +77,12 @@ alt="Cardboard firetruck demontration" width="640" height="480" border="10" /></
 ## Arduino UNO shield
 
 ![Firetruck - arduino shield schematic](arduino-shield/Schematic_Firetruck&#32;-&#32;arduino&#32;uno&#32;shield.png "Firetruck - arduino shield schematic")
+
+[Firetruck - arduino shield schematic PDF](arduino-shield/Schematic_Firetruck&#32;-&#32;arduino&#32;uno&#32;shield.pdf)
+
 ![Firetruck - arduino shield PCB](arduino-shield/PCB_all.png "Firetruck - arduino shield schematic")
+
+[Firetruck - arduino shield PCB PDF](arduino-shield/PCB_botom.pdf)
 
 
 ## TODO
