@@ -8,16 +8,17 @@ Cardboard Fire truck powered by Arduino UNO
 
 ## Final product
 
-<img src="/images/FT_1.jpg" width=640 alt="Cardboard firetruck">
-<img src="/images/FT_2.jpg" width=640 alt="Cardboard firetruck">
-<img src="/images/FT_3.jpg" width=640 alt="Cardboard firetruck">
-<img src="/images/FT_4.jpg" width=640 alt="Cardboard firetruck">
+<img src="/images/FT_1.jpg" width=320 alt="Cardboard firetruck">
+<img src="/images/FT_2.jpg" width=320 alt="Cardboard firetruck">
+<img src="/images/FT_3.jpg" width=320 alt="Cardboard firetruck">
+<img src="/images/FT_4.jpg" width=320 alt="Cardboard firetruck">
 
 ## Video with firetruck demonstration
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PoF56u1W4I4" target="_blank"><img src="http://img.youtube.com/vi/PoF56u1W4I4/0.jpg" 
-alt="Cardboard firetruck demontration" width="640" height="480" border="10" /></a>
+alt="Cardboard firetruck demontration" width="320" height="240" border="10" /></a>
 
+# Technical section
 ## Part list
 #### Connectors and cables
 - 1x XLR187F
@@ -83,6 +84,15 @@ alt="Cardboard firetruck demontration" width="640" height="480" border="10" /></
 ![Firetruck - arduino shield PCB](arduino-shield/PCB_all.png "Firetruck - arduino shield schematic")
 
 [Firetruck - arduino shield PCB PDF](arduino-shield/PCB_botom.pdf)
+
+
+## Construction details
+#### Front lights
+#### Front beacon
+#### Rear ligts
+#### Rear beacons
+#### Connectors
+#### Arduino shield
 
 
 ## TODO
