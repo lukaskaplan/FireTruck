@@ -1,6 +1,7 @@
 # FireTruck
 
-Cardboard Fire truck powered by Arduino UNO
+Cardboard Fire truck powered by Arduino UNO for kids. 
+
 
 ## My project
 
@@ -8,10 +9,8 @@ Cardboard Fire truck powered by Arduino UNO
 
 ## Final product
 
-<img src="/images/FT_1.jpg" width=320 alt="Cardboard firetruck">
-<img src="/images/FT_2.jpg" width=320 alt="Cardboard firetruck">
-<img src="/images/FT_3.jpg" width=320 alt="Cardboard firetruck">
-<img src="/images/FT_4.jpg" width=320 alt="Cardboard firetruck">
+<img src="/images/FT_1.jpg" width=320 alt="Cardboard firetruck"> <img src="/images/FT_2.jpg" width=320 alt="Cardboard firetruck"> 
+<img src="/images/FT_3.jpg" width=320 alt="Cardboard firetruck"> <img src="/images/FT_4.jpg" width=320 alt="Cardboard firetruck">
 
 ## Video with firetruck demonstration
 
@@ -87,14 +86,45 @@ alt="Cardboard firetruck demontration" width="320" height="240" border="10" /></
 
 
 ## Construction details
+
 #### Front lights
-#### Front beacon
+
+Transparent cover is from sushi box, yellow direction ligts are from yoghurt cup. White LED strips:
+
+<img src="/images/frontlights1.jpg" width=320 alt="Firetruck front lights"> <img src="/images/frontlights2.jpg" width=320 alt="Firetruck front lights - detail">
+
+#### Top beacon
+
+Two blue PET bottles and addresable RGB LED strip divided to two parts. Small speaker for sound:
+
+<img src="/images/top-beacon1.jpg" width=320 alt="Firetruck top beacon"> <img src="/images/top-beacon2.jpg" width=320 alt="Firetruck top beacon"> <img src="/images/top-beacon3.jpg" width=320 alt="Firetruck top beacon"> 
+
 #### Rear ligts
+
+Two red PET bottles with common white LED strip inside:
+
+<img src="/images/rear-lights1.jpg" width=320 alt="Firetruck rear ligts"> <img src="/images/rear-lights2.jpg" width=320 alt="Firetruck rear ligts"> 
+
 #### Rear beacons
+
+Inside part is made from two PET bottle caps. They are holding 3 LEDS of addressable RGB strip. We can create rotating effect by blinking one by one. Beacons are covered by bottom of 0.5l blue PET bottle.
+
+<img src="/images/rear-beacons1.jpg" width=320 alt="Firetruck rear beacons"> <img src="/images/rear-beacons2.jpg" width=320 alt="Firetruck rear beacons"> <img src="/images/rear-beacons3.jpg" width=320 alt="Firetruck rear beacons">
+
 #### Connectors
+
+C14 connector (230V) is used for charging from wall outlet. XLR connector is used for connection of truck trailer.
+
+<img src="/images/connectors.jpg" width=320 alt="Firetruck connectors">
+
 #### Arduino shield
 
+I made it from blank arduino uno shield PCB and wires because of fast prototyping. It is not nice, but it works...
 
-## TODO
-- add project description, explain technical details
-- add some construction details (beacons, lights, etc.)
+<img src="/images/shield-top.jpg" width=320 alt="Firetruck arduino shield"> <img src="/images/shield-bottom.jpg" width=320 alt="Firetruck arduino shield">
+
+There are two DFPlayers on the shield. Pinout of DFPlayer mini:
+
+<img src="/images/DFPlayer-mini.jpg" width=240 alt="Firetruck dfplayer mini pinout">
+
+(Be careful, when you will use PCB design from this repo, there are DFPlayers upside down compared to my photos - you will put SD cards from oposite side. VCC pin of DFPlayer should be connected to square pin.)
